@@ -1,0 +1,21 @@
+#Instalasi Git Di 
+    https://git-scm.com/downloads
+
+# Daftar akun github
+    https://app.tango.us/app/workflow/Membuat-Akun-Github-e77f6d7e7356490fb213d5c6f617cdf9
+
+# Edit Profile Github
+    https://app.tango.us/app/workflow/Update-Profile-Github-97b33ae73e95418b8abd4b49d9a89c33
+
+# Setting Git:
++ Buka Git Bash
+
++ Paste (ganti dengan nama dan email anda):
+    git config --global user.name "Nama Anda"
+
+    git config --global user.email email@gmail.com
+
++ Upload Repository
+
++ Hosting Repositori
+    https://app.tango.us/app/workflow/Hosting-Website-Secara-Online-dceeb9d7d7634dfaa307b54673c18306
