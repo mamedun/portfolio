@@ -11,7 +11,7 @@
 + Buka Git Bash
 
 + Paste (ganti dengan nama dan email anda):
-    git config --global user.name "Nama Anda"
+    git config --global user.name "Riki Kurnia"
 
     git config --global user.email email@gmail.com
 
